@@ -31,7 +31,7 @@ CONF_SWITCHES = "switches"
 CONF_SENSORS = "sensors"
 CONF_HOST = "host"
 
-UPDATE_INTERVAL = 60 #in seconds
+UPDATE_INTERVAL = 20 #in seconds
 
 name = "name"
 url = "url"
